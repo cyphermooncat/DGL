@@ -1,0 +1,8 @@
+1	The Scourge of Crime and Punishment	Arme
+17	The Communist Garb of Manifestation	Vetement
+23	Helm of Enshrouding Darkness	Casque
+40	Red and Black commerbund of Social Ascent	Ceinture
+41	Class slippers of Shattering Shards	Chaussures
+58	Clockwork Wind-Up Gloves	Gants
+61	Choker of Life and Fate	Collier
+75	The "Attention Must Be Paid" Shiny Ring	Bague

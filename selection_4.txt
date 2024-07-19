@@ -1,0 +1,8 @@
+6	Boulder of Endless Labor	Arme
+13	Overcoat of the Tedious Scribe	Vetement
+28	The Cogitation Bonnet of Being	Casque
+34	Handmaid's Chastity Belt	Ceinture
+49	Eboli Exile Resting Shoes	Chaussures
+53	Finnegans Wake's Tangled-Thread Mittens	Gants
+66	The Danish Rotten Pendant	Collier
+80	Doctor Zhivago's Band-Aid	Bague

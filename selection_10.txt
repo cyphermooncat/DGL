@@ -1,0 +1,8 @@
+5	Spectral Axe of Beheading	Arme
+11	Dressing Gown of Lethargy	Vetement
+22	Red Hood of Lupine Allure	Casque
+31	Belt of Borodino's Encirlement	Ceinture
+48	Shipwrecked Castaway Sandals	Chaussures
+60	Dirty Hands Gloves	Gants
+62	The Diamond Necklace of Vanity	Collier
+78	The Mischievous Ring of the Round Table	Bague

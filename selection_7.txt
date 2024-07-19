@@ -1,0 +1,8 @@
+3	The Sword of Suspended Fate	Arme
+16	Swiss Alpine Camelhide Blanket of Convalescence	Vetement
+25	The Deerstalker Hat of Sleuthing	Casque
+36	Cinch of Mockingbird Choking	Ceinture
+47	Housemaid's Knee Greaves	Chaussures
+54	Metal Hook of Treasure Hunting	Gants
+69	Eighty-Day Circumnavigator's Compass	Collier
+77	The Ring of Ordinary Malevolence	Bague

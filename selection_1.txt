@@ -1,0 +1,8 @@
+9	The Master's Unburnt Manuscript	Arme
+19	Leopard Fur Redshirts	Vetement
+30	The Confessional Mask	Casque
+35	Utmost Utopian Society Belt	Ceinture
+43	Holy Sandals of Waterwalking	Chaussures
+59	Either the Left Glove/Or the Right One.	Gants
+67	The Glass Bead Necklace	Collier
+71	The Precious One Ring	Bague

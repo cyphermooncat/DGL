@@ -1,0 +1,8 @@
+8	Chivalrous Lance of Windmills Battling	Arme
+20	Jekyll & Hyde Reversible Coat	Vetement
+29	The Protection against Unbearable Lightness Sunglasses	Casque
+32	Girdle of Gargantuan Gluttony	Ceinture
+45	Fluttering Daffodils Stompers of Doom	Chaussures
+52	Ubermensch's Gauntlets of Eternal Recurrence	Gants
+70	Kilimanjaro's Snowy Scarf	Collier
+76	The Philosopher's Wager Ring	Bague

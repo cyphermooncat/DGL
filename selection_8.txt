@@ -1,0 +1,8 @@
+4	Wet/Damp Trident of Seismic Power	Arme
+18	Drapes of Social Reproduction	Vetement
+26	The Minister's Black Veil of Hidden Sins	Casque
+37	Belt of Constriction : "The Horror, The Horror !"	Ceinture
+46	End of the Night Journeying Boots	Chaussures
+55	Forging Gloves of Feline Symmetry Framing	Gants
+65	Ice-Nine Locket of Containment	Collier
+73	The Prince's Poison Signet Ring	Bague

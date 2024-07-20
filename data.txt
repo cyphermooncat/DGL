@@ -1,0 +1,80 @@
+8	Chivalrous Lance of Windmills Battling	Arme 
+9	The Master's Unburnt Manuscript	Arme 
+6	Boulder of Endless Labor	Arme 
+5	Spectral Axe of Beheading	Arme 
+2	Judge's Gavel of Categorical Imperative	Arme 
+3	The Sword of Suspended Fate	Arme 
+7	Grapes of Wrath Juice Exctractor	Arme 
+10	Parachments of Century-Long Solitude	Arme 
+1	The Scourge of Crime and Punishment	Arme 
+4	Wet/Damp Trident of Seismic Power	Arme 
+19	Leopard Fur Redshirts	Vetement 
+13	Overcoat of the Tedious Scribe	Vetement 
+16	Swiss Alpine Camelhide Blanket of Convalescence	Vetement 
+15	Ahab's Baleen Bodice	Vetement 
+11	Dressing Gown of Lethargy	Vetement 
+18	Drapes of Social Reproduction	Vetement 
+20	Jekyll & Hyde Reversible Coat	Vetement 
+14	The Scarlet Robe of Puritan Shaming	Vetement 
+17	The Communist Garb of Manifestation	Vetement 
+12	Hitchhiker's Towel + 42	Vetement 
+24	The Green Helmet of Vulnerable Heels	Casque 
+21	Lucky's Thinking Cap	Casque 
+23	Helm of Enshrouding Darkness	Casque 
+30	The Confessional Mask	Casque 
+28	The Cogitation Bonnet of Being	Casque 
+22	Red Hood of Lupine Allure	Casque 
+25	The Deerstalker Hat of Sleuthing	Casque 
+29	The Protection against Unbearable Lightness Sunglasses	Casque 
+26	The Minister's Black Veil of Hidden Sins	Casque 
+27	Visor of Big Brotherly Care and Consideration	Casque 
+37	Belt of Constriction : "The Horror, The Horror !"	Ceinture 
+31	Belt of Borodino's Encirlement	Ceinture 
+32	Girdle of Gargantuan Gluttony	Ceinture 
+35	Utmost Utopian Society Belt	Ceinture 
+39	Hunger-Stricken Artist Belt	Ceinture 
+33	Harpagon's Belt of Tightening	Ceinture 
+36	Cinch of Mockingbird Choking	Ceinture 
+38	Girdle of the Tenth Circle of Hell	Ceinture 
+40	Red and Black commerbund of Social Ascent	Ceinture 
+34	Handmaid's Chastity Belt	Ceinture 
+41	Class slippers of Shattering Shards	Chaussures 
+47	Housemaid's Knee Greaves	Chaussures 
+42	Puss's Boots of cunning	Chaussures 
+44	Railway's Suicidal Embrace Shoes	Chaussures 
+49	Eboli Exile Resting Shoes	Chaussures 
+48	Shipwrecked Castaway Sandals	Chaussures 
+50	Patagonian Hicking Shoes	Chaussures 
+46	End of the Night Journeying Boots	Chaussures 
+43	Holy Sandals of Waterwalking	Chaussures 
+45	Fluttering Daffodils Stompers of Doom	Chaussures 
+59	Either the Left Glove/Or the Right One.	Gants 
+56	Letter-Purloining Gloves	Gants 
+53	Finnegans Wake's Tangled-Thread Mittens	Gants 
+55	Forging Gloves of Feline Symmetry Framing	Gants 
+58	Clockwork Wind-Up Gloves	Gants 
+57	Recovered Time Watch	Gants 
+51	Cherry Orchard Sprouting Gloves	Gants 
+60	Dirty Hands Gloves	Gants 
+54	Metal Hook of Treasure Hunting	Gants 
+52	Ubermensch's Gauntlets of Eternal Recurrence	Gants 
+63	The Medallion of the Multiplication of Loaves	Collier 
+70	Kilimanjaro's Snowy Scarf	Collier 
+68	The Tolling Bell Pendant	Collier 
+66	The Danish Rotten Pendant	Collier 
+65	Ice-Nine Locket of Containment	Collier 
+67	The Glass Bead Necklace	Collier 
+61	Choker of Life and Fate	Collier 
+69	Eighty-Day Circumnavigator's Compass	Collier 
+64	The Sound of Fury Amulet	Collier 
+62	The Diamond Necklace of Vanity	Collier 
+79	Social Contract Signature Quill	Bague 
+78	The Mischievous Ring of the Round Table	Bague 
+73	The Prince's Poison Signet Ring	Bague 
+72	The Gyges Band of Invisibility	Bague 
+77	The Ring of Ordinary Malevolence	Bague 
+71	The Precious One Ring	Bague 
+76	The Philosopher's Wager Ring	Bague 
+80	Doctor Zhivago's Band-Aid	Bague 
+75	The "Attention Must Be Paid" Shiny Ring	Bague 
+74	The Horseless Kingdom Ring	Bague 

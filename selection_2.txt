@@ -5,4 +5,4 @@
 50	Patagonian Hicking Shoes	Chaussures
 51	Cherry Orchard Sprouting Gloves	Gants
 63	The Medallion of the Multiplication of Loaves	Collier
-74	The Horseless Kingdom Ring	Bague
+74	The Horseless Kingdom Ring	Bague TEST
